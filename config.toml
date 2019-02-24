@@ -1,0 +1,5 @@
+baseURL = "http://EurekaUniverse.github.io"
+
+languageCode = "es-es"
+title = "Eureka Universe Documentation"
+theme="hugo-theme-learn"
